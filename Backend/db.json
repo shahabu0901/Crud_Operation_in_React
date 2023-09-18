@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Md Shahabuddin",
+      "salary": "35000",
+      "company": "TCS",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "salary": "36000",
+      "company": "Hcl",
+      "id": 3
+    }
+  ]
+}
